@@ -1,0 +1,50 @@
+.topbar {
+  background: #3c8dbc; }
+  .topbar .navbar-header {
+    background: #3c8dbc; }
+
+.topbar .navbar-light .navbar-nav .nav-item > a.nav-link {
+    color: #f8f9fa;
+  }
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+}
+/*
+.badge {
+  position: absolute;
+  right: 6px;
+  padding: 1px;
+  background-color:#f39c12;
+  color:blue;
+  margin-top: 12px;
+} */
+
+
+.notification {
+  background-color: #3c8dbc;
+  color: white;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+
+.notification .badge {
+  position: absolute;
+  right: 5px;
+  padding: 3px;
+  background-color: #f39c12;
+  color: white;
+  margin-top: 5px;
+}
+
+.btn-flag .badge-flag {
+  position: absolute;
+  right: 5px;
+  padding: 3px;
+  background-color: #dd4b39;
+  color: white;
+  margin-top: 5px;
+}

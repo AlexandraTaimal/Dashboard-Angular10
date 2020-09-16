@@ -1,0 +1,66 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  margin-right: 20px;
+  margin: 25px 35px;
+}
+
+
+.btn{
+  font-size: 9px;
+  border-radius: 15px;
+  cursor: none;
+}
+
+.card-body{
+  padding: 0px;
+}
+
+.text{
+  font: 400 9px/20px Roboto, "Helvetica Neue", sans-serif;
+}
+
+.progress{
+  background-color: white;
+}
+
+.table td{
+  border-top: 1px solid #e9ecef;
+}
+
+.fa-square{
+  color: rgb(19, 145, 19) ;
+}
+
+.bar1{
+  border-radius: 6px;
+  background-color:#9ae544;
+}
+
+.bar2{
+  border-radius: 6px;
+  background-color:#4fbeec;
+
+}
+
+.bar3{
+  border-radius: 6px;
+  background-color:#f78f6a;
+}
+
+.bar4{
+  color: dimgray;
+  background-color: white;
+}
+
+.btn .fa-sync-alt {
+  font-size: 2em;
+
+}
+.btn .fa-expand-alt {
+  font-size: 2em;
+
+}
+
+.display{
+  display:inline-block;
+}
